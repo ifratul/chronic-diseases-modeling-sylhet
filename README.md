@@ -19,7 +19,7 @@ This project investigates the prevalence, spatial distribution, and risk factors
 
 ## 📂 Project Structure
 - `/Code` - R scripts for data analysis and modeling
-[📄 spatial-model-chronic-disease-count.R](Code/spatial-model-chronic-disease-count.R) – Main R script for spatial autoregressive modeling of chronic disease count
+[📄 spatial-model-chronic-disease-count.R](spatial-model-chronic-disease-count.R) – Main R script for spatial autoregressive modeling of chronic disease count
 
 - `/Figures` - Maps and visual outputs
 ![Prevalence of Chronic Diseases](https://github.com/user-attachments/assets/a8240735-0804-46a4-8ff4-07b0aa4968de)
