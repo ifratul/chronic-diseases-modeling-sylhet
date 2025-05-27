@@ -28,7 +28,7 @@ Due to privacy concerns, raw data is not shared.
 
 
 ## Regards
-Ifratul Hasan
-email- ifratul32@gmail.com
+Ifratul Hasan |
+Email- ifratul32@gmail.com
 
 
