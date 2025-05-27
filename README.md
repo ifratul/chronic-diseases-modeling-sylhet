@@ -22,6 +22,8 @@ This project investigates the prevalence, spatial distribution, and risk factors
 - `/Data` - Data dictionary (no raw data for privacy)
 - `/Figures` - Maps and visual outputs
 ![Prevalence of Chronic Diseases](https://github.com/user-attachments/assets/a8240735-0804-46a4-8ff4-07b0aa4968de)
+![Disease Map](https://github.com/user-attachments/assets/8106cb18-5187-48b4-ad3f-3e0d3ccf13d0)
+
 - `/Results` - Model results and tables
 
 ## 🔒 Data Availability
