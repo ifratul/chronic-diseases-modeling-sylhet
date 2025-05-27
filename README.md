@@ -19,14 +19,15 @@ This project investigates the prevalence, spatial distribution, and risk factors
 
 ## 📂 Project Structure
 - `/Code` - R scripts for data analysis and modeling
+  
 [📄 spatial-model-chronic-disease-count.R](spatial-model-chronic-disease-count.R) – Main R script for spatial autoregressive modeling of chronic disease count
 
 - `/Figures` - Maps and visual outputs
 ![Prevalence of Chronic Diseases](https://github.com/user-attachments/assets/a8240735-0804-46a4-8ff4-07b0aa4968de)
 According to our study, 98.7% of the respondents have confirmed having at least one chronic disease in Sylhet district. The number of chronic diseases present in a respondent varied from 0 to 17. The most prevalent disease categories are musculoskeletal disorders, digestive diseases, eye diseases, hypertension, skin diseases, diabetes and kidney diseases, cardio-vascular disorders.
+
 ![Count](https://github.com/user-attachments/assets/38e6bc9d-3008-4325-81df-c3ac860ba540)
-This map shows that the mean number of diseases present among the elderly individual is more in 
-Dakshin Shurma Upazila and Golapgonj Upazila.
+This map shows that the mean number of diseases present among the elderly individual is more in Dakshin Shurma Upazila and Golapgonj Upazila.
 - `/Results` - Model results and tables
   
 ![Risk Factors of Chronic Diseases](https://github.com/user-attachments/files/20464399/New.Microsoft.Excel.Worksheet.2.xlsx)
